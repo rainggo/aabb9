@@ -6,6 +6,7 @@ option  go_package ="abc/cba";
 
 message HelloRequest {
     string msg = 1;
+    string msg_two = 2;
 }
 
 message HelloReply {
